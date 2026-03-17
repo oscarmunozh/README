@@ -1,74 +1,66 @@
-# 👋 Hi, I'm Oscar Muñoz Herrera
+<div align="center">
 
-🎯 **Junior Cloud & DevOps Engineer (in progress)**  
-🌍 Based in Spain | Open to remote international opportunities  
+# Hi, I'm Oscar Muñoz 👋
+
+**Systems Admin grad → Cloud & DevOps Engineer (in progress)**
+
+📍 Spain · Open to Remote · International · B2 English (working toward C1)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/oscar-mu%C3%B1oz-herrera-051332275)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oherreram06@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 About Me
-I'm a Systems Administration graduate (ASIR) with a strong foundation in Linux, networking and automation.  
+## 🙋 About me
 
-I'm currently focused on transitioning into **Cloud & DevOps**, building real-world projects and developing the skills required to work in international environments.
-
-I’m highly motivated to grow fast, take on challenges, and build scalable, automated infrastructure.
+I completed a technical degree in Systems Administration (ASIR) in Spain, where I built a real foundation in Linux, networking, and automation.  
+Now I'm focused on closing the gap between sysadmin and cloud engineering — **learning by doing, not just by watching tutorials.**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ What I actually know
 
-### 💻 Systems & Infrastructure
-- Linux Administration (Ubuntu, basic server management)
-- Networking fundamentals (TCP/IP, routing, basic services)
-- Virtualization basics
+| Area | Technologies |
+|------|-------------|
+| **Systems** | Linux (Ubuntu), CLI, server config |
+| **Scripting** | Bash, Python (basic), PowerShell |
+| **Networking** | TCP/IP, DNS, basic routing |
+| **Databases** | SQL, PostgreSQL |
+| **DevOps** | Git, GitHub, Docker (learning) |
+| **Cloud** | AWS — EC2, working toward more services |
 
-### ⚙️ Scripting & Automation
-- Bash scripting  
-- Python (basic automation)  
-- PowerShell  
+---
 
-### ☁️ Cloud & DevOps (in progress)
-- AWS (learning: EC2, basic infrastructure)  
-- Git & GitHub  
-- Docker *(currently learning)*  
+## 🌱 What I'm building right now
 
-### 🗄️ Databases & Web
-- SQL / PostgreSQL  
-- HTML & CSS  
-- Basic web deployment  
+- 🚀 Deploying real infrastructure on **AWS** (EC2 and beyond)
+- 🐳 Learning **Docker** through hands-on projects
+- 📂 Building this portfolio to **show, not just tell**
 
 ---
 
 ## 📂 Projects
 
-### 🔹 Intermodular Project (ASIR)
-Developed a full web application as part of my final degree project, integrating:
-- Frontend (HTML/CSS)  
-- Database (PostgreSQL)  
-- Deployment concepts  
+### 🔹 ASIR Final Project
+> Web application built end-to-end as my degree capstone.
 
-📌 *Currently working on new projects focused on cloud infrastructure, automation and DevOps practices.*
-
----
-
-## 🎯 Current Goals
-
-- Build real-world **Cloud projects (AWS)**  
-- Learn and apply **Docker & CI/CD**  
-- Improve **automation with Python & Bash**  
-- Strengthen **English for professional environments (B2 → C1)**  
-- Land a **remote position in an international company**  
+- **Frontend:** HTML & CSS
+- **Database:** PostgreSQL
+- **What I learned:** Full deployment flow from local dev to working server
 
 ---
 
-## 📈 What I'm Currently Working On
+## 🎯 What I'm looking for
 
-- Deploying applications in AWS (EC2)  
-- Learning Docker and containerization  
-- Building a strong GitHub portfolio with real infrastructure projects  
+A **junior Cloud/DevOps role** (remote preferred) where I can contribute from day one,  
+learn fast, and grow alongside a technical team.
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
 
-I'm actively looking to grow as a Cloud/DevOps engineer and collaborate on interesting projects.  
-Feel free to connect or reach out 🚀
+*Open to work · Open to challenges · Open to feedback*
+
+</div>
