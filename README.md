@@ -6,7 +6,7 @@
 
 📍 Spain · Open to Remote · International · B2 English (working toward C1)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/oscar-mu%C3%B1oz-herrera-051332275)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/oscar-mu%C3%B1oz-herrera-051332275)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oherreram06@gmail.com)
 
 </div>
