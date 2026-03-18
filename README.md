@@ -2,7 +2,7 @@
 
 # Hi, I'm Oscar Muñoz 👋
 
-**Systems Admin grad → Cloud & DevOps Engineer (in progress)**
+**Systems Administration Graduate → Cloud & DevOps Engineer (in progress)**
 
 📍 Spain · Open to Remote · International · B2 English (working toward C1)
 
