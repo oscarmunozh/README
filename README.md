@@ -13,7 +13,7 @@ Systems Administration graduate from Castellón, Spain. I spent two years deep i
 
 I finished my Systems Administration degree with a solid foundation in sysadmin work, but what interests me most is the overlap between infrastructure and cloud engineering. I'm currently deploying real infrastructure on AWS, learning Docker hands-on, and building tools that I'd actually find useful.
 
-I've done internships at three different companies across both my degrees: **Forcada** (Kyocera printer and document management solutions, plus IT services and system maintenance), **Modula** (automated warehouse storage systems and industrial logistics), and currently **Record Go** (vehicle rental company managing fleets, booking platforms and digital operations) — 3 months each. Different environments, different tech stacks, same approach: figure out how things actually work before touching anything.
+I've done internships at three different companies across both my degrees: Forcada (Kyocera printer and document management solutions, plus IT services and system maintenance), Modula (automated warehouse storage systems and industrial logistics), and currently Record Go (vehicle rental company managing fleets, booking platforms and digital operations) — 3 months each. Different environments, different tech stacks, same approach: figure out how things actually work before touching anything.
 
 ---
 
@@ -21,12 +21,14 @@ I've done internships at three different companies across both my degrees: **For
 
 | Area | Tools |
 |---|---|
-| **Systems** | Linux (Ubuntu), Windows Server, CLI |
+| **Systems** | Linux (Ubuntu), Windows Server, Proxmox VE |
+| **Networking** | TCP/IP, DNS, VLANs, OPNsense, WireGuard VPN, firewall rules |
+| **Containers** | Docker, Docker Compose, Kubernetes (k3s) |
+| **Cloud** | AWS EC2, Elastic IPs, Security Groups |
 | **Scripting** | Bash, PowerShell, Python (basic) |
-| **Networking** | TCP/IP, DNS, basic routing |
-| **Databases** | SQL, PostgreSQL |
-| **DevOps** | Git, GitHub, Docker (learning) |
-| **Cloud** | AWS — EC2, expanding to more services |
+| **Databases** | PostgreSQL |
+| **Monitoring** | Grafana, Prometheus, Node Exporter |
+| **Web** | Nginx, Let's Encrypt, TypeScript |
 
 ---
 
@@ -37,8 +39,23 @@ A PowerShell tool to manage Active Directory users, groups and OUs through an in
 
 → [View repository](https://github.com/oscarmunozh/AD-Manager)
 
-### Systems Administration Degree — Final Project
-Web application built as my degree capstone. Frontend in HTML/CSS, PostgreSQL database. The real learning was in the full deployment flow — from local development to a working production server.
+### 🔹 NeoLink — Corporate Infrastructure Platform
+Full corporate infrastructure project built as my Systems Administration degree capstone, developed in a team of three.
+
+NeoLink centralises identity management, internal services and secure remote access for a mid-sized company — a self-hosted alternative to fragmented tools like Microsoft 365 or disconnected open-source stacks.
+
+**What we built:**
+- Proxmox virtualisation cluster (2 nodes) running all services as VMs
+- OPNsense as the network perimeter — firewall, VLAN segmentation (admin, DMZ, servers, VPN...), WireGuard VPN, ACLs between all segments
+- Active Directory for centralised user and permissions management with MFA
+- WireGuard VPN server deployed via Docker on AWS EC2, with Nginx as reverse proxy and Let's Encrypt TLS certificates
+- Odoo ERP (Docker) — invoicing, inventory, internal chat
+- Wiki.js (Docker) for internal documentation
+- Grafana + Prometheus for infrastructure monitoring
+- Static corporate website in TypeScript, containerised with Docker, served via Nginx
+- k3s (lightweight Kubernetes) for container orchestration
+
+**Stack:** Proxmox · OPNsense · Active Directory · WireGuard · Docker · Nginx · AWS EC2 · PostgreSQL · Odoo · Grafana · Prometheus · TypeScript · Kubernetes
 
 ---
 
