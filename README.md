@@ -44,7 +44,7 @@ Web application built as my degree capstone. Frontend in HTML/CSS, PostgreSQL da
 
 ## What I'm looking for
 
-A junior Cloud or DevOps role (remote preferred) where I can contribute from day one and grow alongside a technical team. I'm not looking to be taught everything from scratch — I'm looking for real problems and context to work in.
+A Cloud or DevOps role at a company where infrastructure actually matters — somewhere with scale, technical depth, and room to grow fast. Remote preferred.
 
 ---
 
